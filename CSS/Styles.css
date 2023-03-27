@@ -81,13 +81,13 @@ div{
 }
 .cloud2{
     position:absolute;
-    left:250px;
-    bottom: 150px;;
+    left:23%;
+    bottom: 30%;
 }
 .cloud1{
     position: absolute;
-    right:300px;
-    top:40px;
+    right:30%;
+    top:7%;
 }
 .Intro{
     margin-bottom:20px;
